@@ -1,0 +1,17 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+	product: ruby
+	cart: one
+
+
+two:
+	product: ruby
+	cart: one
+
+one:
+	name: Dave Thomas
+	address: MyText
+	email: dave@example.org
+	pay_type: Check
+  
